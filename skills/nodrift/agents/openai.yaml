@@ -1,0 +1,4 @@
+interface:
+  display_name: "NoDrift"
+  short_description: "Track code changes and review affected documentation"
+  default_prompt: "Use $nodrift to check documentation freshness and review documents affected by tracked code changes."
