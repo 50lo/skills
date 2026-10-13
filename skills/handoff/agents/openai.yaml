@@ -1,0 +1,4 @@
+interface:
+  display_name: "Handoff"
+  short_description: "Write a concise, safe agent handoff"
+  default_prompt: "Use $handoff to save a concise, redacted handoff for another agent in the workspace tmp/ directory."
